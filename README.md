@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabrielNazareth
 - 👀 I’m interested in Uma oportunidade em programação
-- 🌱 I’m currently learning Html, Css, JavaScript e Java
+- 🌱 I’m currently learning Html, Css, JavaScrip, WordPress, React Native
 - 💞️ I’m looking to collaborate on Projetos Profissionais
 - 📫 How to reach me 11987699060
 - ⚡ Fun fact: Aspirante a Programador Front End Web
